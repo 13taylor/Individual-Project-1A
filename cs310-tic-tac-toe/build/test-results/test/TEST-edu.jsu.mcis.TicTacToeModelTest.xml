@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.jsu.mcis.TicTacToeModelTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-09-26T00:09:40" hostname="DESKTOP-OUHVKJQ" time="0.02">
+  <properties/>
+  <testcase name="testGameIsWonByXDiagonallyFromTopLeftToBottomRight" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.008"/>
+  <testcase name="testGameIsOverByTieIfAllLocationsAreFilled" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGameIsWonByOWithFirstCol" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGameIsWonByXHorizontallyAcrossTopRow" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testOutOfBoundsMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.004"/>
+  <testcase name="testMarkXInUpperRightCorner" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGameisWonByODiagonallyFromBottomLeftToTopRight" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testMarkOInBottomLeftCorner" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testInitialBoardIsEmpty" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testXWinDiagonallyFromTopLeftToBottomRightOn5x5Board" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGameIsNotOverAfterTheFirstMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testUnableToMarkOverExistingMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.004"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception thrown  :java.lang.ArrayIndexOutOfBoundsException: 3
+Out of the block
+Exception thrown  :java.lang.ArrayIndexOutOfBoundsException: -1
+Out of the block
+Exception thrown  :java.lang.ArrayIndexOutOfBoundsException: -1
+Out of the block
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
